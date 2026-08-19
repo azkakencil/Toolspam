@@ -1,0 +1,8 @@
+requests
+urllib3
+colorama
+fake-useragent
+flask
+flask-cors
+python-dotenv
+brotli
